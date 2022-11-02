@@ -10,3 +10,8 @@ C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\obj\Debug\net6.0\URLShor
 C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\obj\Debug\net6.0\refint\URLShortener.Domain.dll
 C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\obj\Debug\net6.0\URLShortener.Domain.pdb
 C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\obj\Debug\net6.0\ref\URLShortener.Domain.dll
+C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\bin\Debug\net6.0\URLShortener.Contract.dll
+C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\bin\Debug\net6.0\URLShortener.Contract.pdb
+C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\obj\Debug\net6.0\URLShortener.Domain.csproj.CopyComplete
+C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\bin\Debug\net6.0\URLShortener.Domain.runtimeconfig.json
+C:\Users\danul\Desktop\URLShortener\URLShortener.Domain\obj\Debug\net6.0\URLShortener.Domain.genruntimeconfig.cache
