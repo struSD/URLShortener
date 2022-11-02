@@ -24,8 +24,4 @@ public class UrlDbContext : DbContext
     {
         modelBuilder.Entity<Url>().HasIndex(x => x.OriginUrl).IsUnique();
     }
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseNpgsql("");
-    }
 }

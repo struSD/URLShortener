@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "a0P8Ey9hZrT+Wk7umXvPYEfaFPE/I219Hijf1Ag6QinaA2UsF2rU+wTpJOGfW4baaw33VMYMR55UAgdY7xWBVA==",
+  "dgSpecHash": "vtcjXBhTKlsnkDk8BYo4HmYP4f4clj4mf+Xn8bH/3nFjLBcy+KVFv8VPeZ5XbVj5Y/sARzGQP+MOtAR0RtVzoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\danul\\Desktop\\URLShortener\\URLShortener.Domain\\URLShortener.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\danul\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\danul\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\danul\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\danul\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\danul\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
