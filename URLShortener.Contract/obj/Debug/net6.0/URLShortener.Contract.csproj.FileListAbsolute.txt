@@ -1,0 +1,12 @@
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\bin\Debug\net6.0\URLShortener.Contract.deps.json
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\bin\Debug\net6.0\URLShortener.Contract.dll
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\bin\Debug\net6.0\URLShortener.Contract.pdb
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.csproj.AssemblyReference.cache
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.AssemblyInfoInputs.cache
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.AssemblyInfo.cs
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.csproj.CoreCompileInputs.cache
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.dll
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\refint\URLShortener.Contract.dll
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\URLShortener.Contract.pdb
+C:\Users\danul\Desktop\URLShortener\URLShortener.Contract\obj\Debug\net6.0\ref\URLShortener.Contract.dll
